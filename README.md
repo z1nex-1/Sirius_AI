@@ -2,7 +2,7 @@
 
 <p float="left">
   <img src="https://github.com/z1nex-1/Sirius_AI/blob/main/img/logo1.png" width="300" />
-  <img src="https://github.com/z1nex-1/Sirius_AI/blob/main/img/logo2.png" width="150" />
+  <img src="https://github.com/z1nex-1/Sirius_AI/blob/main/img/logo2.png" width="300" />
 </p>
 
 ## Инструмент для анализа клиентских отзывов
@@ -54,7 +54,14 @@ ________________________________
 ## Сбор информации
 ### Для сбора информации мы использовали 2 вида парсерова с 2 источников
 
+Colons can be used to align columns.
+
 |   Сайт           | banki.ru            | sravni.ru                            |
 | -------------    |:-------------:      | :-----:                               |
 | Что использовали?| **bs4** и **urlib** | **selenium** и **webdriver_manager** |
 | Как работает?    | Просто через **get** запросы     | Ходим по сайт через **ChromeDriver** и нажимем на кнопки |
+
+<p float="left">
+  <img src="https://github.com/z1nex-1/Sirius_AI/blob/main/img/img8.png" width="500" />
+  <img src="https://github.com/z1nex-1/Sirius_AI/blob/main/img/img9.png" width="500" />
+</p>
