@@ -32,12 +32,12 @@ ________
 ## Результат
 
 <p float="left">
-  <img src="https://github.com/z1nex-1/Sirius_AI/blob/main/img/img6.png" width="600" />
-  <img src="https://github.com/z1nex-1/Sirius_AI/blob/main/img/img7.png" width="600" />
+  <img src="https://github.com/z1nex-1/Sirius_AI/blob/main/img/img6.png" width="500" />
+  <img src="https://github.com/z1nex-1/Sirius_AI/blob/main/img/img7.png" width="500" />
 </p>
 
 ## Видеодемострация работы для первого этапа
 
 <p float="left">
-  <img src="https://github.com/z1nex-1/Sirius_AI/blob/main/img/qr.png" width="600" />
+  <img src="https://github.com/z1nex-1/Sirius_AI/blob/main/img/qr.png" width="300" />
 </p>
