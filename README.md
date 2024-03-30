@@ -62,6 +62,6 @@ Colons can be used to align columns.
 | Как работает?    | Просто через **get** запросы     | Ходим по сайт через **ChromeDriver** и нажимем на кнопки |
 
 <p float="left">
-  <img src="https://github.com/z1nex-1/Sirius_AI/blob/main/img/img8.png" width="500" />
-  <img src="https://github.com/z1nex-1/Sirius_AI/blob/main/img/img9.png" width="550" />
+  <img src="https://github.com/z1nex-1/Sirius_AI/blob/main/img/img8.png" width="450" />
+  <img src="https://github.com/z1nex-1/Sirius_AI/blob/main/img/img9.png" width="500" />
 </p>
