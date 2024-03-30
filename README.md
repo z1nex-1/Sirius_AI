@@ -2,7 +2,7 @@
 
 <p float="left">
   <img src="https://github.com/z1nex-1/Sirius_AI/blob/main/img/logo1.png" width="300" />
-  <img src="https://github.com/z1nex-1/Sirius_AI/blob/main/img/logo2.png" width="300" />
+  <img src="https://github.com/z1nex-1/Sirius_AI/blob/main/img/logo2.png" width="150" />
 </p>
 
 ## Инструмент для анализа клиентских отзывов
