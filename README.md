@@ -19,8 +19,7 @@ ________
 Мы запускаем ее в **LM Studio**, а потом уже в программе на языке программирования **python** обращаемся к серверу.
 
 ## Демонстрация работы
-![Lm Studio](https://github.com/z1nex-1/Sirius_AI/blob/main/img/im4.png)
-![Python](https://github.com/z1nex-1/Sirius_AI/blob/main/img/img5.png)
+![Lm Studio](https://github.com/z1nex-1/Sirius_AI/blob/main/img/im4.png) ![Python](https://github.com/z1nex-1/Sirius_AI/blob/main/img/img5.png)
 
 ## Результат
 ![Lm Studio](https://github.com/z1nex-1/Sirius_AI/blob/main/img/img6.png)
