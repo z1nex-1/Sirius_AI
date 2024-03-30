@@ -1,4 +1,4 @@
-# Сириус ИИ Весна 2024 ![Alt text](https://imgur.com/qOUrYNo)
+# Сириус ИИ Весна 2024 ![Alt text]([https://imgur.com/qOUrYNo](https://www.flickr.com/photos/200394615@N06/53621327125/in/dateposted-public/))
 ## Инструмент для анализа клиентских отзывов
 ### Проектная команда: 
  + Кончаков Павел
