@@ -25,8 +25,8 @@ ________
 ## Демонстрация работы
 
 <p float="left">
-  <img src="https://github.com/z1nex-1/Sirius_AI/blob/main/img/im4.png" width="600" />
-  <img src="https://github.com/z1nex-1/Sirius_AI/blob/main/img/img5.png" width="600" />
+  <img src="https://github.com/z1nex-1/Sirius_AI/blob/main/img/im4.png" width="500" />
+  <img src="https://github.com/z1nex-1/Sirius_AI/blob/main/img/img5.png" width="500" />
 </p>
 
 ## Результат
