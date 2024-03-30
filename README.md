@@ -65,3 +65,13 @@ Colons can be used to align columns.
   <img src="https://github.com/z1nex-1/Sirius_AI/blob/main/img/img8.png" width="450" />
   <img src="https://github.com/z1nex-1/Sirius_AI/blob/main/img/img9.png" width="550" />
 </p>
+
+## Обработка информации 
++ Парсер banki.ru потребовал дополнительную чистку от 
+HTML-cимволов для чистки.
++ Парсер sravni.ru устроен так, что после парсинга не требуется дополнительная чистка.
+
+<p float="left">
+  <img src="https://github.com/z1nex-1/Sirius_AI/blob/main/img/img10.png" width="500" />
+  <img src="https://github.com/z1nex-1/Sirius_AI/blob/main/img/img11.png" width="500" />
+</p>
